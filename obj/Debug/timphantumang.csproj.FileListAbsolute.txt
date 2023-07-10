@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\timphantumang\bin\Debug\timphantumang.exe.config
+C:\Users\tuan\Desktop\timphantumang\bin\Debug\timphantumang.exe
+C:\Users\tuan\Desktop\timphantumang\bin\Debug\timphantumang.pdb
+C:\Users\tuan\Desktop\timphantumang\obj\Debug\timphantumang.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\timphantumang\obj\Debug\timphantumang.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\timphantumang\obj\Debug\timphantumang.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\timphantumang\obj\Debug\timphantumang.exe
+C:\Users\tuan\Desktop\timphantumang\obj\Debug\timphantumang.pdb
